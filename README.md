@@ -14,7 +14,7 @@
 - ✉️ Mail me: **admin@webton.ru**
 
 
-<p align="center"> <a href="https://twitter.com/mrngstr_labs" target="blank"><img src="https://img.shields.io/twitter/follow/mrngstr_labs?logo=twitter&style=for-the-badge" alt="mrngstr_labs" /></a> </p>
+<p align="center"> <a href="https://t.me/webton_dev" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="webton_dev" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
