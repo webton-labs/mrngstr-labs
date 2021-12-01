@@ -1,7 +1,7 @@
 <h1 align="center">Welcome! 👋🏻 My name is Vlad</h1>
 <h3 align="center">Web-developer from Kursk</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrngstr-labs&label=Profile%20views&color=16eb71&style=flat" alt="mrngstr-labs" /> </p> 
+[![Twitter Followers](https://badgen.net/twitter/follow/mrngstr_labs)](https://twitter.com/mrngstr_labs) <img src="https://komarev.com/ghpvc/?username=mrngstr-labs&label=Profile%20views&color=16eb71&style=flat" alt="mrngstr-labs" />
 
 ## About me:
 
@@ -14,13 +14,7 @@
 - ✉️ Mail me: **admin@webton.ru**
 
 
-<p align="center"> <a href="https://t.me/webton_dev" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="webton_dev" /></a> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/mrngstrlabs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mrngstrlabs" height="30" width="40" /></a>
-<a href="https://twitter.com/mrngstr_labs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrngstr_labs" height="30" width="40" /></a>
-</p>
+<p align="center"><a href="https://t.me/webton_dev" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="webton_dev" /></a></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
