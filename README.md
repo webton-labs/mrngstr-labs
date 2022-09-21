@@ -1,5 +1,5 @@
 <h1 align="center">Welcome! 👋🏻 My name is Vlad</h1>
-<h3 align="center">Web-developer from Kursk</h3>
+<h3 align="center">Web-developer from Moscow</h3>
 
 [![Twitter Followers](https://badgen.net/twitter/follow/mrngstr_labs)](https://twitter.com/mrngstr_labs) <img src="https://komarev.com/ghpvc/?username=mrngstr-labs&label=Profile%20views&color=16eb71&style=flat" alt="mrngstr-labs" />
 
