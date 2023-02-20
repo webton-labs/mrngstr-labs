@@ -1,20 +1,19 @@
-<h1 align="center">Welcome! 👋🏻 My name is Vlad</h1>
-<h3 align="center">Web-developer from Moscow</h3>
+<h1>Welcome! 👋🏻 My name is Vlad</h1>
+<h3>Web-developer from Moscow</h3>
 
-[![Twitter Followers](https://badgen.net/twitter/follow/mrngstr_labs)](https://twitter.com/mrngstr_labs) <img src="https://komarev.com/ghpvc/?username=mrngstr-labs&label=Profile%20views&color=16eb71&style=flat" alt="mrngstr-labs" />
+<img src="https://komarev.com/ghpvc/?username=mrngstr-labs&label=Profile%20views&color=16eb71&style=flat" alt="mrngstr-labs">
 
 ## About me:
 
-- 🏢 I’m currently working on [LMS System for Education Center](https://ldso.ru)
+- ~~🏢 I’m currently working on LMS System for Education Center~~
 
-- 👨🏻‍🎓 I’m currently learning **JS and React**
+- 🔧 I’m currently working **only on my own projects**
 
 - 🔎 I’m looking to collaborate on [Webton Project](https://webton.ru)
 
-- ✉️ Mail me: **admin@webton.ru**
+- ✉️ Mail me: **vladislav@webton.ru**
 
-
-<p align="center"><a href="https://t.me/webton_dev" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="webton_dev" /></a></p>
+- 📬 Contact me: <a href="https://t.me/webton_dev" target="blank">Telegram</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
